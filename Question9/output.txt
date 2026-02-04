@@ -1,0 +1,15 @@
+Command: gcc zombie_prevention.c -o zombie_prevention
+
+Output:
+Compilation successful
+
+
+Command: ./zombie_prevention
+
+Output:
+Child process created with PID: 7988
+Child process created with PID: 7989
+Child process created with PID: 7990
+Parent cleaned child process with PID: 7988
+Parent cleaned child process with PID: 7989
+Parent cleaned child process with PID: 7990

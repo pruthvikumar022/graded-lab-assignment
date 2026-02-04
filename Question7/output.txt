@@ -1,0 +1,27 @@
+Command: ./patterns.sh
+
+Output:
+Pattern separation completed.
+
+
+Command: cat vowels.txt
+
+Output:
+aei
+
+
+Command: cat consonants.txt
+
+Output:
+bbb
+sky
+why
+try
+
+
+Command: cat mixed.txt
+
+Output:
+cat
+dog
+queue

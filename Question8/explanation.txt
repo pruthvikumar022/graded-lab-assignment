@@ -1,0 +1,2 @@
+Command: ./bg_move.sh testdir
+Explanation: The script moves files to a backup directory using background processes, displays each process PID using $!, shows the parent PID using $$, and waits for all background jobs to complete using wait.

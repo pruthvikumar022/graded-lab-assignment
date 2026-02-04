@@ -1,3 +1,0 @@
-Hello this is Pruthvii
-This is my lab assignment
-Linux shell scripting

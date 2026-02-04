@@ -1,0 +1,2 @@
+Command: ./patterns.sh
+Explanation: The script converts text to lowercase, separates words using regular expressions, and classifies them into vowels, consonants, and mixed patterns.

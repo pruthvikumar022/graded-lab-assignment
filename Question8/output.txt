@@ -1,0 +1,6 @@
+Command: ./bg_move.sh testdir
+Parent Process PID: 2968
+Moved file1.txt in background with PID: 2970
+Moved file2.txt in background with PID: 2972
+Moved file3.txt in background with PID: 2974
+All background move operations completed.

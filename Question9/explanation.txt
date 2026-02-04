@@ -1,0 +1,1 @@
+Explanation: The gcc compiler was used to compile the C program, and the parent process uses wait() to clean up child processes, preventing zombie processes.
