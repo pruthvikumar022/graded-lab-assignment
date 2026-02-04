@@ -1,0 +1,19 @@
+Command: ./validate_results.sh 
+
+output:
+
+Students who failed in exactly ONE subject:
+: integer expression expected8: [: 23
+: integer expression expected8: [: 90
+: integer expression expected8: [: 40
+103 - Charan
+: integer expression expected8: [: 65
+: integer expression expected8: [: 80
+
+Students who passed in ALL subjects:
+: integer expression expected7: [: 23
+: integer expression expected7: [: 90
+: integer expression expected7: [: 65
+
+Count of students who failed in exactly ONE subject: 1
+Count of students who passed in ALL subjects: 3
