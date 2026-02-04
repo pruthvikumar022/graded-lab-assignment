@@ -1,0 +1,5 @@
+Command: gcc signal_handling.c -o signal_handling
+Explanation: This command compiles the C program that demonstrates signal handling.
+
+Command: ./signal_handling
+Explanation: The parent process handles SIGTERM and SIGINT signals differently using signal handlers and exits gracefully after receiving SIGINT.

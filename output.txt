@@ -1,0 +1,11 @@
+Command: gcc signal_handling.c -o signal_handling
+
+Output:
+Compilation successful
+
+
+Command: ./signal_handling
+
+Output:
+Parent received SIGTERM. Cleaning up and continuing...
+Parent received SIGINT. Exiting gracefully.
