@@ -1,0 +1,13 @@
+Command: ./sync.sh
+
+Output:
+Files only in dirA:
+file1.txt
+file2.txt
+
+Files only in dirB:
+file3.txt
+
+Common files comparison:
+common.txt : SAME content
+common2.txt : DIFFERENT content

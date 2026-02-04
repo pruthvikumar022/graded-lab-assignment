@@ -1,0 +1,26 @@
+Command: ./log_analyze.sh sample.log
+
+Output:
+Total entries: 5
+INFO: 1
+WARNING: 1
+ERROR: 2
+Most recent ERROR:
+2025-01-12 10:17:10 ERROR Network timeout
+
+
+Command: ls
+
+Output:
+explanation.txt  log_analyze.sh  logsummary_2026-02-04.txt  output.txt  sample.log  screenshots
+
+
+
+Command: cat logsummary_2026-02-04.txt
+
+Output:
+Total entries: 5
+INFO: 1
+WARNING: 1
+ERROR: 2
+Most recent ERROR:

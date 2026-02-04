@@ -1,0 +1,5 @@
+Command: chmod +x validate_results.sh
+Explanation: This command gives execute permission to the script.
+
+Command: ./validate_results.sh
+Explanation: The script reads student marks, checks pass or fail using conditionals, and counts students who failed in exactly one subject and those who passed all subjects.

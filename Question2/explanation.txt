@@ -1,0 +1,5 @@
+Command: chmod +x log_analyze.sh
+Explanation: This command gives execute permission to the shell script.
+
+Command: ./log_analyze.sh sample.log
+Explanation: The script validates the log file, counts different log levels, finds the latest ERROR message, and generates a dated summary report file.

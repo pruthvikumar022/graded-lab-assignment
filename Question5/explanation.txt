@@ -1,0 +1,2 @@
+Command: ./sync.sh
+Explanation: The script compares files in two directories, lists unique files in each directory, and checks content differences for common files using the cmp command.

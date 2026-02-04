@@ -1,0 +1,7 @@
+Command: ./metrics.sh
+
+Output:
+Longest word: automation
+Shortest word: is
+Average word length: 5.50
+Total unique words: 10

@@ -1,0 +1,2 @@
+Command: ./emailcleaner.sh
+Explanation: The script uses grep with regular expressions to separate valid and invalid email addresses and removes duplicate valid emails using sort and uniq.

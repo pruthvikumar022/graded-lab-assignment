@@ -1,0 +1,2 @@
+Command: ./metrics.sh
+Explanation: The script processes the text using pipes and commands like tr, sort, uniq, wc, and awk to find word length statistics and unique word count.

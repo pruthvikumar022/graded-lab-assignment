@@ -1,0 +1,22 @@
+Command: ./emailcleaner.sh
+
+Output:
+Valid and invalid email extraction completed.
+
+
+Command: cat valid.txt
+
+Output:
+good99@yahoo.com
+
+
+Command: cat invalid.txt
+
+Output:
+abc123@gmail.com
+test@gmail.com
+hello@company.com
+wrong@email
+abc123@gmail.com
+123@abc.com
+user@site.org
